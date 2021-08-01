@@ -1,0 +1,21 @@
+
+
+.container{
+  display: flex;
+  border: 2px solid red;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+.txt{
+  text-align: center;
+  text-shadow: 2px 2px 8px #FF0000;
+}
+.btn{
+  text-align: center;
+  display: block;
+  border: 3px;
+}
+body{
+  background-color: rgb(229, 238, 181);
+}
